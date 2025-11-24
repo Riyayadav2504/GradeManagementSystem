@@ -1,0 +1,7 @@
+Class Report
+Generated at: 2025-11-24T16:53:31.673314
+------------------------------
+riya (Roll: 24BSA10266) | Marks: [78, 90, 61] | Total: 229 | %: 76.33 | Grade: B
+sharmili (Roll: 24bce10991) | Marks: [87, 81, 85] | Total: 253 | %: 84.33 | Grade: A
+------------------------------
+Total students: 2
